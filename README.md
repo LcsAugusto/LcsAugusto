@@ -1,7 +1,7 @@
 ## Objetivo: Tornar-me Analista de Dados
 
-| Ferramenta     | Status       | Descrição                                      |
-| -------------- | ------------ | ---------------------------------------------- |
+| Ferramenta     | Status       
+| -------------- | ------------
 | SQL            | ![Em Progresso](https://img.shields.io/badge/status-em%20progresso-yellow) 
 | Python         | ![Em Progresso](https://img.shields.io/badge/status-em%20progresso-yellow)
 | Power BI       | ![Em Progresso](https://img.shields.io/badge/status-em%20progresso-yellow)  
