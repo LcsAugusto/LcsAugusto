@@ -1,4 +1,6 @@
-## Objetivo: Tornar-me Analista de Dados
+👋 Oi, eu sou o Lucas!
+🎯 Quero me tornar Analista de Dados.
+📚 Atualmente estudando SQL, Python, Power BI, Excel Avançado, Git & GitHub
 
 | Ferramenta     | Status       
 | -------------- | ------------
@@ -12,7 +14,5 @@
 
 ## 🚀 Próximos Passos
 
-- Aprofundar em Machine Learning com Python.  
-- Integrar Power BI com bancos de dados SQL.  
 - Aprender visualização avançada com ferramentas adicionais.
--->
+
