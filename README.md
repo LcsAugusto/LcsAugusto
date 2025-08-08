@@ -1,10 +1,4 @@
-## # Roadmap-de-Aprendizado
-
-Bem-vindo ao meu repositório de aprendizado! Aqui compartilho as ferramentas, linguagens e tecnologias que estou estudando para me tornar um Analista de Dados completo.
-
----
-
-## 🛠️ Ferramentas e Tecnologias em Aprendizado
+## Objetivo: Tornar-me Analista de Dados
 
 | Ferramenta     | Status       | Descrição                                      |
 | -------------- | ------------ | ---------------------------------------------- |
