@@ -11,7 +11,7 @@
 |                             | SQLite                                                 |
 |                             | SQL – Consultas, JOINS, Agregações, SubQuerys        |
 |                             | Linguagem M – Power Query, Consultas e Análises         |
-| **Business Intelligenxe**    |                                                        |
+| **Business Intelligence**    |                                                        |
 |                             | Power BI – Modelagem de dados, DAX, KPIs, Dashboards Interativos |
 |                             | Excel – Tabelas dinâmicas, Relatórios,Fórmulas                |
 | **Programação e Análise**    |                                                        |
