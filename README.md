@@ -4,21 +4,24 @@
 
 📚 Atualmente estudando SQL, Python, Power BI e migrande para mais ferramentas e tecnologias para atender todas as necessidades do mercado
 
-| Categoria                   | Ferramenta / Conhecimento                              |
-| --------------------------- | ------------------------------------------------------ |
-| **Banco de Dados**           |                                                        |
-|                             | PostgreSQL                                             |
-|                             | SQLite                                                 |
-|                             | SQL – Consultas, JOINS, Agregações, SubQuerys,CTEs         |
-|                             | Linguagem M – Power Query, Consultas e Análises         |
-| **Business Intelligence**    |                                                        |
-|                             | Power BI – Modelagem de dados, DAX, KPIs, Dashboards Interativos |
-|                             | Excel – Tabelas dinâmicas, Relatórios,Fórmulas                |
-| **Programação e Análise**    |                                                        |
-|                             | Python – Pandas, Numpy, Machine Learning clusters (apresentado em curso)                    |
-|                             | R (noções) – Manipulação, Análise de Dados, Machine Learning detecção de anomalias (aprendizado não supervisionado)          |
-| **Ferramentas de Desenvolvimento** |                                                  |
-|                             | Visual Studio Code                                     |
-|                             | RStudio                                               |
-|                             | PyCharm                                               |
-|                             | Jupyter Notebook                                      |
+**Competências Técnicas**
+
+**Banco de Dados**
+	•	PostgreSQL
+	•	SQLite
+	•	SQL (Consultas, JOINs, Agregações, Subqueries, CTEs)
+	•	Linguagem M (Power Query, Consultas e Análises)
+
+**Business Intelligence**
+	•	Power BI (Modelagem de Dados, DAX, KPIs, Dashboards Interativos)
+	•	Excel (Tabelas Dinâmicas, Relatórios, Fórmulas Avançadas)
+
+**Programação e Análise**
+	•	Python (Pandas, NumPy, Machine Learning – Clustering)
+	•	R (noções: Manipulação, Análise de Dados, Machine Learning – Detecção de Anomalias)
+
+**Ferramentas de Desenvolvimento**
+	•	Visual Studio Code
+	•	RStudio
+	•	PyCharm
+	•	Jupyter Notebook
