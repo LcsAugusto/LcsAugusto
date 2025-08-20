@@ -9,14 +9,14 @@
 | **Banco de Dados**           |                                                        |
 |                             | PostgreSQL                                             |
 |                             | SQLite                                                 |
-|                             | SQL – Consultas, JOINS, Agregações, SubQuerys        |
+|                             | SQL – Consultas, JOINS, Agregações, SubQuerys,CTEs         |
 |                             | Linguagem M – Power Query, Consultas e Análises         |
 | **Business Intelligence**    |                                                        |
 |                             | Power BI – Modelagem de dados, DAX, KPIs, Dashboards Interativos |
 |                             | Excel – Tabelas dinâmicas, Relatórios,Fórmulas                |
 | **Programação e Análise**    |                                                        |
-|                             | Python – Pandas, NumP, Machine Learning clusters (apresentado em curso)                    |
-|                             | R (noções) – Manipulação, análise de dados, Machine Learning detecção de anomalias (aprendizado não supervisionado)          |
+|                             | Python – Pandas, Numpy, Machine Learning clusters (apresentado em curso)                    |
+|                             | R (noções) – Manipulação, Análise de Dados, Machine Learning detecção de anomalias (aprendizado não supervisionado)          |
 | **Ferramentas de Desenvolvimento** |                                                  |
 |                             | Visual Studio Code                                     |
 |                             | RStudio                                               |
