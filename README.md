@@ -2,7 +2,7 @@
 
 🎯 Quero me tornar Analista de Dados
 
-📚 Atualmente estudando SQL, Python, Power BI e migrande para mais ferramntas e tecnologias
+📚 Atualmente estudando SQL, Python, Power BI e migrande para mais ferramntas e tecnologias para atender todas as necessidades do mercado
 
 | Categoria                   | Ferramenta / Conhecimento                              |
 | --------------------------- | ------------------------------------------------------ |
