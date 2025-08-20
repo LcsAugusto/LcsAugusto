@@ -9,15 +9,14 @@
 | **Banco de Dados**           |                                                        |
 |                             | PostgreSQL                                             |
 |                             | SQLite                                                 |
-|                             | SQL – Consultas, joins, agregações, subqueries        |
-|                             | Linguagem M – Power Query                               |
-| **BI**                       |                                                        |
-|                             | Power BI – Modelagem de dados, DAX, KPIs, dashboards interativos |
-|                             | Excel – Tabelas dinâmicas, relatórios                 |
+|                             | SQL – Consultas, JOINS, Agregações, SubQuerys        |
+|                             | Linguagem M – Power Query, Consultas e Análises         |
+| **Business Intelligenxe**    |                                                        |
+|                             | Power BI – Modelagem de dados, DAX, KPIs, Dashboards Interativos |
+|                             | Excel – Tabelas dinâmicas, Relatórios,Fórmulas                |
 | **Programação e Análise**    |                                                        |
-|                             | Python – Pandas, NumPy, Matplotlib, Seaborn, EDA      |
-|                             | R (noções) – Manipulação e análise de dados           |
-|                             | Machine Learning – Apresentado em curso (modelos preditivos básicos) |
+|                             | Python – Pandas, NumP, Machine Learning clusters (apresentado em curso)                    |
+|                             | R (noções) – Manipulação, análise de dados, Machine Learning detecção de anomalias (aprendizado não supervisionado)          |
 | **Ferramentas de Desenvolvimento** |                                                  |
 |                             | Visual Studio Code                                     |
 |                             | RStudio                                               |
