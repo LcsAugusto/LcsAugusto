@@ -1,10 +1,8 @@
 👋 Oi, eu sou o Lucas!
 
-🎯 Quero me tornar Analista de Dados
+🎯 Analista de Dados
 
-📚 Atualmente estudando SQL, Python, Power BI e migrande para mais ferramentas e tecnologias para atender todas as necessidades do mercado
-
-**Competências Técnicas**
+📚 Estudando e migrande para mais ferramentas e tecnologias para atender todas as necessidades do mercado
 
 ## 🛠 Competências Técnicas
 
