@@ -6,26 +6,21 @@
 
 **Competências Técnicas**
 
-**Banco de Dados**
+## 🛠 Competências Técnicas
 
-	•	PostgreSQL
-	•	SQLite
-	•	SQL (Consultas, JOINs, Agregações, Subqueries, CTEs)
-	•	Linguagem M (Power Query, Consultas e Análises)
+**Banco de Dados**  
+- PostgreSQL, SQL Server, SQLite  
+- Consultas SQL, JOINs, Agregações, Subqueries, CTEs  
+- Linguagem M (Power Query)
 
-**Business Intelligence**
+**Business Intelligence**  
+- Power BI (Modelagem, DAX, KPIs, Dashboards)  
+- Excel Avançado (Tabelas Dinâmicas, Fórmulas, Relatórios)
 
-	•	Power BI (Modelagem de Dados, DAX, KPIs, Dashboards Interativos)
-	•	Excel (Tabelas Dinâmicas, Relatórios, Fórmulas Avançadas)
+**ETL & Data Warehouse**  
+- Amazon Redshift, Modelagem Dimensional  
+- Apache Spark, Databricks (PySpark, SparkSQL)
 
-**Programação e Análise**
-
-	•	Python (Pandas, NumPy, Machine Learning – Clustering)
-	•	R (noções: Manipulação, Análise de Dados, Machine Learning – Detecção de Anomalias)
-
-**Ferramentas de Desenvolvimento**
-
-	•	Visual Studio Code
-	•	RStudio
-	•	PyCharm
-	•	Jupyter Notebook
+**Ferramentas**  
+- Git/GitHub, VS Code, Jupyter Notebook  
+- RStudio, PyCharm
