@@ -9,12 +9,11 @@
 **Banco de Dados**  
 - PostgreSQL, SQL Server, SQLite  
 - Consultas SQL, JOINs, Agregações, Subqueries, CTEs  
-- Linguagem M (Power Query)
 - [Projeto completo em SQL  ](https://github.com/LcsAugusto/Analise-da-Tendencia-do-Mercado-de-Trabalho-para-Analistas-de-Dados)
   
 **Business Intelligence**  
 - Power BI (Modelagem, DAX, KPIs, Dashboards)  
-- Excel Avançado (Tabelas Dinâmicas, Fórmulas, Relatórios)
+- Excel (Tabelas Dinâmicas, Fórmulas, Relatórios)
 - [Projetos de Dashboards em Power BI  ](https://github.com/LcsAugusto/Dahboards-Power-BI)
   
 **ETL & Data Warehouse**  
