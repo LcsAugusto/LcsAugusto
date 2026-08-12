@@ -6,7 +6,7 @@
 
 ## Sobre
 
-Trabalho como Analista de Monitoramento de Dados no setor de transporte rodoviário, onde analiso diversos de dados no dia a dia. Sou também estudante de Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul. Estou me dedicando a consolidar ferramentas técnicas e aprofundar pensamento analítico e lógico, com o objetivo de me fortalecer no mercado de dados, inclusive fora do Brasil.
+Trabalho como Analista de Monitoramento de Dados no setor de transporte rodoviário, onde analiso diversos tipos de dados no dia a dia. Sou também estudante de Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul. Estou me dedicando a consolidar ferramentas técnicas e aprofundar pensamento analítico e lógico, com o objetivo de me fortalecer no mercado de dados, inclusive fora do Brasil.
 
 ---
 
