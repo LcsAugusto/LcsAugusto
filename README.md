@@ -1,29 +1,27 @@
-<div align="center">
-
 # Lucas Augusto
 
-**Estudante de ADS · Em transição para Análise de Dados**
-
-
-</div>
+**Analista de Dados | Em consolidação de ferramentas**
 
 ---
 
 ## Sobre
 
-Estudante de Análise e Desenvolvimento de Sistemas (Cruzeiro do Sul EAD), atuando profissionalmente como Analista de Monitoramento de Dados, com foco em transição para a área de Data Analytics, direcionada ao mercado europeu.
+Trabalho como Analista de Monitoramento de Dados no setor de transporte rodoviário, onde analiso diversos de dados no dia a dia. Sou também estudante de Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul. Estou me dedicando a consolidar ferramentas técnicas e aprofundar pensamento analítico e lógico, com o objetivo de me fortalecer no mercado de dados, inclusive fora do Brasil.
 
 ---
 
 ## Stack Técnica
 
-<div align="left">
-
-**Linguagens & Dados**
+**Linguagens e Dados**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Bancos de Dados**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 **Business Intelligence**
 
@@ -36,27 +34,18 @@ Estudante de Análise e Desenvolvimento de Sistemas (Cruzeiro do Sul EAD), atuan
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-</div>
-
 ---
 
 ## Projetos
 
-| Projeto | Descrição |
-|---|---|
-| [Análise da Tendência do Mercado de Trabalho para Analistas de Dados](https://github.com/LcsAugusto/Analise-da-Tendencia-do-Mercado-de-Trabalho-para-Analistas-de-Dados) | Projeto em SQL — consultas, filtros e agregações aplicadas a dados de mercado |
-| [Dashboards em Power BI](https://github.com/LcsAugusto/Dahboards-Power-BI) | Exercícios de modelagem e visualização de dados |
+**[Análise da Tendência do Mercado de Trabalho para Analistas de Dados](https://github.com/LcsAugusto/Analise-da-Tendencia-do-Mercado-de-Trabalho-para-Analistas-de-Dados)**
+Projeto em SQL com consultas, JOINs, agregações, subqueries e CTEs aplicadas a dados de mercado.
+
+**[Dashboards em Power BI](https://github.com/LcsAugusto/Dahboards-Power-BI)**
+Exercícios de modelagem e visualização de dados feitos durante o curso da Data Science Academy.
 
 ---
 
 ## Foco Atual
 
-Consolidando base em **SQL e Python** com prática orientada a dados reais do meu trabalho no setor de transporte rodoviário. Desenvolvendo inglês técnico e aprofundando conhecimento em ferramentas de BI, com objetivo de atuar como Data Analyst em Portugal.
-
----
-
-<div align="center">
-
-*Aberto a conexões e oportunidades na área de dados*
-
-</div>
+Estou aprofundando SQL, Python e Power BI, buscando ganhar mais autonomia técnica. Também estudo banco de dados e automações, um conjunto que considero favorável para a minha função no dia a dia. Além disso, venho aperfeiçoando inglês e espanhol.
